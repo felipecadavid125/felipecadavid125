@@ -29,3 +29,5 @@ Me apasiona garantizar la calidad del software a través de metodologías ágile
 ---
 ⭐ Gracias por visitar mi perfil, ¡explora mis proyectos de QA!
 
+[![tests](https://github.com/felipecadavid125/qa-project-Urban-Routes-es/actions/workflows/main.yml/badge.svg)](https://github.com/felipecadavid125/qa-project-Urban-Routes-es/actions/workflows/main.yml)
+
